@@ -7,7 +7,7 @@
 ![Lint](https://img.shields.io/badge/GolangCI--Lint-Passing-00ADD8?style=for-the-badge)
 ![Dependabot](https://img.shields.io/badge/Dependabot-Enabled-025E9C?style=for-the-badge&logo=dependabot&logoColor=white)
 
-> Audit-Log-Analyzer - Open source tool by Qyroxen
+> Audit-Log-Analyzer - Open source tool by AetherCodeHQ
 
 `audit` `cli` `golang` `logs` `security`
 
@@ -30,7 +30,7 @@
 
 ### Install from source
 ```bash
-git clone https://github.com/Qyroxen/Audit-Log-Analyzer.git
+git clone https://github.com/AetherCodeHQ/Audit-Log-Analyzer.git
 cd Audit-Log-Analyzer
 go build -o Audit-Log-Analyzer .
 ```
@@ -95,7 +95,7 @@ go build -o Audit-Log-Analyzer .
 
 ```bash
 # Clone the repo
-git clone https://github.com/Qyroxen/Audit-Log-Analyzer.git
+git clone https://github.com/AetherCodeHQ/Audit-Log-Analyzer.git
 cd Audit-Log-Analyzer
 
 # Build
@@ -123,5 +123,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/Qyroxen">AetherCode</a> • <a href="https://github.com/AetherCode-Core">AetherCode-Core</a>
+  Built with ❤️ by <a href="https://github.com/AetherCodeHQ">AetherCode</a> • <a href="https://github.com/AetherCode-Core">AetherCode-Core</a>
 </p>
